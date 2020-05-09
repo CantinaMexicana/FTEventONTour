@@ -31,7 +31,9 @@
         "#f1fc7b",
         "#e8dd30",
         "#f80f85",
-        "#51ff99"
+        "#51ff99",
+        "#424a4d",
+        "#eaeff1"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -45,15 +47,15 @@
     ],
     "cookiesAlert": {
       "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
+      "colorBg": "#0dcd7b",
       "colorLink": "#424a4d",
       "underlineLink": true,
-      "opacity": "99",
-      "text": "Używamy Pliki Cookies .Dowiedz się więcej  o Polityce Prywatności i Plikach Cookies <a href='privacy.html'>cookie policy</a>.",
+      "opacity": "20",
+      "text": "Używamy Pliki Cookies. Dowiedz się więcej  o  <a href='privacy.html'>Polityce Prywatności i Plikach Cookies</a>.",
       "customDialogSelector": false,
-      "textButton": "Zgadzam się",
-      "colorButton": "undefined",
-      "opacityOverlay": "80"
+      "textButton": "OK",
+      "colorButton": "#70e6b3",
+      "opacityOverlay": "43"
     },
     "favicon": false,
     "noImageResize": "",
@@ -62,7 +64,7 @@
     "uniqCompNum": 44,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
-    "imageResize": false,
+    "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -73,7 +75,8 @@
       "text": "Kontynuując potwierdzasz że zapoznałeś się z naszą polityką prywatności <a href='privacy.html'>Polityka Prywatności</a> <a href='privacy.html'/a>."
     },
     "htmltag": "<html>",
-    "witsec-language": "pl"
+    "witsec-language": "pl",
+    "canonical-url": false
   },
   "pages": {
     "index.html": {
