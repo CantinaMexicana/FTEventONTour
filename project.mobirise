@@ -47,10 +47,10 @@
     ],
     "cookiesAlert": {
       "colorText": "#424a4d",
-      "colorBg": "#0dcd7b",
+      "colorBg": "#e0e0e0",
       "colorLink": "#424a4d",
       "underlineLink": true,
-      "opacity": "20",
+      "opacity": "99",
       "text": "Używamy Pliki Cookies. Dowiedz się więcej  o  <a href='privacy.html'>Polityce Prywatności i Plikach Cookies</a>.",
       "customDialogSelector": false,
       "textButton": "OK",
